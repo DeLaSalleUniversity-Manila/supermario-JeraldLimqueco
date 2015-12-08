@@ -16,4 +16,8 @@ Features of the game:
 * At the end of the level you can slide down the flag, you will then walk automatically to the castle. The game will then restart.
 * Sound effects and music.
 
+###Screenshot:
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/supermario-JeraldLimqueco/blob/master/device-2015-12-08-111147.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/supermario-JeraldLimqueco/blob/master/device-2015-12-08-111315.png)
+
 
